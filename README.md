@@ -14,8 +14,23 @@
 ### 12.Click on SSH then auth then credentials
 ### 13.Click browse and open the key pair you downloaded
 ### 14.Click accept then type ubuntu and then press enter 
-### 15.Run the commands sudo su then apt update then apt install apache2
-### 16.Run the commands /var/www/html/ then rm index.html then vi index.html
+### 15.Use the commands
+```bash
+sudo apt update
+```
+```bash
+sudo apt install apache2 -y
+```
+### 16.Use the commands 
+```bash
+cd /var/www/html
+```
+```bash
+sudo rm index.html
+```
+```bash
+sudo vi index.html
+```
 ### 17.Edit the file and press Ctrl+C then type :wq
 ### 18.On the instance dashboard click on terminate running instance  
 
