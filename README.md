@@ -18,6 +18,4 @@
 ### 16.Run the commands /var/www/html/ then rm index.html then vi index.html
 ### 17.Edit the file and press Ctrl+C then type :wq
 ### 18.On the instance dashboard click on terminate running instance  
-## Working with Docker and Nginx
-### 1.Sign in to your account
-### 2.
+
